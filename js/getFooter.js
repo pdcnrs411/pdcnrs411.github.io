@@ -1,4 +1,4 @@
-$.get("http://jaydeepgill.github.io/partials/nav.html", function(data){
+$.get("http://pdcnrs411.github.io/partials/nav.html", function(data){
 
     $(document).ready(function(){
     $("footer").show();
